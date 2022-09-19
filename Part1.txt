@@ -1,0 +1,201 @@
+
+
+Zen Submission Link 1:
+http://www.ericstoltz.com/
+
+HTML Code:
+<div id="skillbar_straight" style="padding:10px 0;">
+
+<div class="skillbar clearfix " data-percent="100%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #D95B43;"><span>Cross-functional collaboration</span></div>
+				<div class="skillbar-bar" style="background: #D95B43;"></div>
+				<div class="skill-bar-percent">100%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="70%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #FA6900;"><span>Team management</span></div>
+				<div class="skillbar-bar" style="background: #FA6900;"></div>
+				<div class="skill-bar-percent">70%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="75%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #F38630;"><span>Team mentoring</span></div>
+				<div class="skillbar-bar" style="background: #F38630;"></div>
+				<div class="skill-bar-percent">75%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="85%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #f7a53b;"><span>UX evangelization</span></div>
+				<div class="skillbar-bar" style="background: #f7a53b;"></div>
+				<div class="skill-bar-percent">85%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="95%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #fa6e6e;"><span>Workshop design &amp; facilitation</span></div>
+				<div class="skillbar-bar" style="background: #fa6e6e;"></div>
+				<div class="skill-bar-percent">95%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="100%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #E0E4CC;"><span>Presentations</span></div>
+				<div class="skillbar-bar" style="background: #E0E4CC;"></div>
+				<div class="skill-bar-percent">100%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="100%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #A7DBD8;"><span>Innovation</span></div>
+				<div class="skillbar-bar" style="background: #A7DBD8;"></div>
+				<div class="skill-bar-percent">100%</div>
+			</div>
+
+ <div class="skillbar clearfix " data-percent="70%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #69D2E7;"><span>UX research</span></div>
+				<div class="skillbar-bar" style="background: #69D2E7;"></div>
+				<div class="skill-bar-percent">70%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="100%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #6adcfa;"><span>UX theory &amp; process</span></div>
+				<div class="skillbar-bar" style="background: #6adcfa;"></div>
+				<div class="skill-bar-percent">100%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="95%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #DECD078;"><span>Agile</span></div>
+				<div class="skillbar-bar" style="background: #DECD078;"></div>
+				<div class="skill-bar-percent">95%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="100%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #336699;"><span>UI design</span></div>
+				<div class="skillbar-bar" style="background: #336699;"></div>
+				<div class="skill-bar-percent">100%</div>
+			</div>
+
+<div class="skillbar clearfix " data-percent="90%" style="background: #eeeeee;">
+				<div class="skillbar-title" style="background: #53777A;"><span>Prototyping</span></div>
+				<div class="skillbar-bar" style="background: #53777A;"></div>
+				<div class="skill-bar-percent">90%</div>
+			</div>
+
+
+<div style="clear:both;"></div>
+</div>
+
+CSS Code:
+element.style {
+    padding: 10px 0;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+
+
+
+
+Zen Submission Link 2: 
+http://www.ericstoltz.com/
+
+
+HTML Code:
+<div class="header-inner section-inner">
+
+				<div class="header-titles-wrapper">
+
+					
+						<button class="toggle search-toggle mobile-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+							<span class="toggle-inner">
+								<span class="toggle-icon">
+									<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)"></path></svg>								</span>
+								<span class="toggle-text">Search</span>
+							</span>
+						</button><!-- .search-toggle -->
+
+					
+					<div class="header-titles">
+
+						<div class="site-title faux-heading"><a href="http://www.ericstoltz.com/">Eric Stoltz</a></div><div class="site-description">UX Leader</div><!-- .site-description -->
+					</div><!-- .header-titles -->
+
+					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+						<span class="toggle-inner">
+							<span class="toggle-icon">
+								<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)"></path></svg>							</span>
+							<span class="toggle-text">Menu</span>
+						</span>
+					</button><!-- .nav-toggle -->
+
+				</div><!-- .header-titles-wrapper -->
+
+				<div class="header-navigation-wrapper">
+
+					
+							<nav class="primary-menu-wrapper" aria-label="Horizontal" role="navigation">
+
+								<ul class="primary-menu reset-list-style">
+
+								<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a href="http://ericstoltz.com">About</a></li>
+<li id="menu-item-806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-806"><a title="AKA the portfolio" href="http://www.ericstoltz.com/category/portfolio/">Work</a></li>
+<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a title="Deep thoughts" href="http://www.ericstoltz.com/blog/">Blog</a></li>
+<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a title="You know what this is" href="http://www.ericstoltz.com/resume/">Résumé</a></li>
+
+								</ul>
+
+							</nav><!-- .primary-menu-wrapper -->
+
+						
+						<div class="header-toggles hide-no-js">
+
+						
+							<div class="toggle-wrapper search-toggle-wrapper">
+
+								<button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+									<span class="toggle-inner">
+										<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)"></path></svg>										<span class="toggle-text">Search</span>
+									</span>
+								</button><!-- .search-toggle -->
+
+							</div>
+
+							
+						</div><!-- .header-toggles -->
+						
+				</div><!-- .header-navigation-wrapper -->
+
+			</div>
+
+CSS Code:
+
+
+@media (min-width: 700px)
+.header-inner {
+    padding: 3.8rem 0;
+    padding-top: 3.8rem;
+    padding-right: 0px;
+    padding-bottom: 3.8rem;
+    padding-left: 0px;
+
+
+
+
+
+Zen Submission Link 3: 
+https://www.meltmedia.com/services
+
+
+HTML Code:
+<div class="coh-container coh-container-boxed"> <h1 class="coh-heading card-heading-large coh-ce-cpt_linked_card-6fc88c89"> Create </h1> <div class="coh-row coh-row-xl coh-row-visible-xl" data-coh-row-match-heights="{&quot;xl&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner reverse-row coh-ce-cpt_linked_card-169bfed9"> <div class="coh-column coh-ce-cpt_linked_card-e61990b6 coh-visible-sm coh-col-sm-12 coh-visible-xl coh-col-xl-5"> <picture> <source srcset="/sites/default/files/styles/webp/public/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png.webp?itok=1q1YKEkY" media="(min-width: 1440px)" type="image/webp"> <source srcset="/sites/default/files/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png" media="(min-width: 1440px)" type="image/png"> <source srcset="/sites/default/files/styles/webp/public/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png.webp?itok=1q1YKEkY" media="(min-width: 1170px) and (max-width: 1439px)" type="image/webp"> <source srcset="/sites/default/files/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png" media="(min-width: 1170px) and (max-width: 1439px)" type="image/png"> <source srcset="/sites/default/files/styles/webp/public/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png.webp?itok=1q1YKEkY" media="(min-width: 1024px) and (max-width: 1169px)" type="image/webp"> <source srcset="/sites/default/files/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png" media="(min-width: 1024px) and (max-width: 1169px)" type="image/png"> <source srcset="/sites/default/files/styles/webp/public/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png.webp?itok=uovH2jei" media="(min-width: 768px) and (max-width: 1023px)" type="image/webp"> <source srcset="/sites/default/files/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png" media="(min-width: 768px) and (max-width: 1023px)" type="image/png"> <source srcset="/sites/default/files/styles/webp/public/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png.webp?itok=uovH2jei" media="(min-width: 565px) and (max-width: 767px)" type="image/webp"> <source srcset="/sites/default/files/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png" media="(min-width: 565px) and (max-width: 767px)" type="image/png"> <source srcset="/sites/default/files/styles/webp/public/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png.webp?itok=uovH2jei" media="(min-width: 0px) and (max-width: 564px)" type="image/webp"> <source srcset="/sites/default/files/2022-05/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%207-1.png" media="(min-width: 0px) and (max-width: 564px)" type="image/png"> <img class="coh-image coh-ce-cpt_linked_card-14ce8e24 coh-image-responsive-xl coh-image-responsive-sm" src="/sites/default/files/styles/webp/public/2022-04/brooke-cagle-NoRsyXmHGpI-unsplash%20%281%29%20Copy%204.png.webp?itok=1q1YKEkY" alt=""> </picture> </div> <div class="coh-column coh-ce-cpt_linked_card-e61990b6 coh-visible-sm coh-col-sm-12 coh-visible-xl coh-col-xl-6"> <div class="coh-container reverse-row coh-ce-cpt_linked_card-f91459f1"> <h1 class="coh-heading coh-ce-cpt_linked_card-4d53450a"> Brand </h1> <div class="coh-wysiwyg coh-ce-cpt_linked_card-e9415bb0">    <p>Behind every front-end experience is a complicated mix of user needs, compliance, messaging, brand standards, and then some. Let’s make it feel seamless anyway.</p>
+ </div> <div class="coh-container  coh-ce-cpt_linked_card-271b5422"> <a href="" class="coh-link coh-style-link-button-color coh-ce-cpt_linked_card-a97ad67a" target="_self">     </a> </div> </div> </div> </div> </div> </div>
+
+CSS Code:
+
+.coh-container-boxed {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+
+
